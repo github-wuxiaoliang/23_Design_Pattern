@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_first_day/1_first_day.iml" filepath="$PROJECT_DIR$/1_first_day/1_first_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_Design_Pattern.iml" filepath="$PROJECT_DIR$/23_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_second_day/2_second_day.iml" filepath="$PROJECT_DIR$/2_second_day/2_second_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_third_day/3_third_day.iml" filepath="$PROJECT_DIR$/3_third_day/3_third_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_forth_day/4_forth_day.iml" filepath="$PROJECT_DIR$/4_forth_day/4_forth_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_fifth_day/5_fifth_day.iml" filepath="$PROJECT_DIR$/5_fifth_day/5_fifth_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_sixth_day/6_sixth_day.iml" filepath="$PROJECT_DIR$/6_sixth_day/6_sixth_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_seventh_day/7_seventh_day.iml" filepath="$PROJECT_DIR$/7_seventh_day/7_seventh_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_eighth_day______summary/8_eighth_day______summary.iml" filepath="$PROJECT_DIR$/8_eighth_day______summary/8_eighth_day______summary.iml" />
+    </modules>
+  </component>
+</project>
